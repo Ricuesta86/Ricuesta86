@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 </a>
   </div>
   <br/>
+  
+  
+  <div align="center">
+  <a href="https://github.com/ricuesta86" >
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
+    </a>
+  </div>
   <div>
 <a href="https://github.com/ricuesta86">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricuesta86&show_icons=true&theme=default" />
