@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/ricuesta86">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=ricuesta86" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricuesta86" />
 </a>
 <a href="https://github.com/ricuesta86">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=ricuesta86" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricuesta86&show_icons=true&theme=radical" />
 </a>
