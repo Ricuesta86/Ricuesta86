@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   <div align="center">
   <a href="https://github.com/ricuesta86" >
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ricuesta86&row=2" />
     </a>
   </div>
   <div>
