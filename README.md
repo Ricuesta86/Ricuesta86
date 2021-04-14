@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricuesta86)](https://github.com/ricuesta86)
-![Ricuesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricuesta86&show_icons=true&theme=radical)
 
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricuesta86)](https://github.com/ricuesta86)
+-![Ricuesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricuesta86&show_icons=true&theme=radical)
+-->
+
+
+<a href="https://github.com/ricuesta86">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=ricuesta86" />
+</a>
+<a href="https://github.com/ricuesta86">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=ricuesta86" />
+</a>
