@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=github-readme-stats)](https://github.com/ricuesta86/github-readme-stats)
+
 ![Ricuesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricuesta86&show_icons=true&theme=radical)
 
