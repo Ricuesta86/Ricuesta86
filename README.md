@@ -1,5 +1,9 @@
 ### Hola, soy RicuestaDev 👋
 <hr>
+Yo soy Desarrollador Full-Stack en MERN con experiencia en la creación de aplicaciones web escalables y eficientes, utilizando tecnologías modernas y las mejores prácticas de desarrollo.
+
+
+
 - 🔭 I’m currently working 
 <!--
 **Ricuesta86/Ricuesta86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
