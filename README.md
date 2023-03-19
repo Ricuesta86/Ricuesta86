@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola, soy RicuestaDev 👋
+<br>
+- 🔭 I’m currently working 
 <!--
 **Ricuesta86/Ricuesta86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Empresa de Aprovechamiento Hidráulicos Cienfuegos
+-  🌱 I’m currently learning
+
+
+
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricuesta86&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
