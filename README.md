@@ -1,6 +1,6 @@
 ### Hola, soy RicuestaDev 👋
 <hr>
-Yo soy Desarrollador Full-Stack en MERN con experiencia en la creación de aplicaciones web escalables y eficientes, utilizando tecnologías modernas y las mejores prácticas de desarrollo.
+Yo soy Desarrollador Full-Stack con experiencia en la creación de aplicaciones web escalables y eficientes, utilizando tecnologías modernas y las mejores prácticas de desarrollo.
 
 
 
