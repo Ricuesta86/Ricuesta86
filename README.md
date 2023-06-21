@@ -2,9 +2,12 @@
 <hr>
 Yo soy Desarrollador Full-Stack con experiencia en la creación de aplicaciones web escalables y eficientes, utilizando tecnologías modernas y las mejores prácticas de desarrollo.
 
+- 🔭 Actulmente estoy trabajando con Nodejs, Typescript, Javascript, Reactjs
 
+email: ricuesta1986@gmail.com 
+Telef: (+53) 52152326 o (+53) 58989098
+Linkedin: linkedin.com/in/ricuesta1986/
 
-- 🔭 I’m currently working 
 <!--
 **Ricuesta86/Ricuesta86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
