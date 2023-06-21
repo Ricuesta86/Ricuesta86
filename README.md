@@ -9,7 +9,7 @@ Yo soy Desarrollador Full-Stack con experiencia en la creación de aplicaciones 
 #### Telef: (+53) 52152326 o (+53) 58989098
 #### Linkedin: https://linkedin.com/in/ricuesta1986/
 
-  <div>
+  <div align="center">
 <a href="https://github.com/ricuesta86">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricuesta86&show_icons=true&theme=default" />
 </a>
