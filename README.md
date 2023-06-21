@@ -4,9 +4,9 @@ Yo soy Desarrollador Full-Stack con experiencia en la creación de aplicaciones 
 
 - 🔭 Actulmente estoy trabajando con Nodejs, Typescript, Javascript, Reactjs
 
-#### email: ricuesta1986@gmail.com 
+#### Email: ricuesta1986@gmail.com 
 #### Telef: (+53) 52152326 o (+53) 58989098
-#### Linkedin: linkedin.com/in/ricuesta1986/
+#### Linkedin: https://linkedin.com/in/ricuesta1986/
 
   <div>
 <a href="https://github.com/ricuesta86">
