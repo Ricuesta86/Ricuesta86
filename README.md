@@ -2,6 +2,7 @@
 <hr>
 Yo soy Desarrollador Full-Stack con experiencia en la creación de aplicaciones web escalables y eficientes, utilizando tecnologías modernas y las mejores prácticas de desarrollo.
 
+
 - 🔭 Actulmente estoy trabajando con Nodejs, Typescript, Javascript, Reactjs
 
 #### Email: ricuesta1986@gmail.com 
